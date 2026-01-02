@@ -103,6 +103,7 @@ cd Safety-Object-Detection
 python -m http.server 8080
 ```
 **SCREENSHOTS**
+
 Features: -
 
 <img width="999" height="627" alt="image" src="https://github.com/user-attachments/assets/6f23b767-5c2a-4c7e-9481-e0f5f5eddd1f" />
