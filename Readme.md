@@ -83,6 +83,7 @@ The platform supports both **live camera feed detection** and **image uploads**,
 | Member | Role |
 |--------|------|
 | Pratham Ranjan | AI/ML Engineer / Backend |
+| Ishani Jindal  | Frontend Developer/ UI UX Designer |
 | [Other Members] | [Roles] |
 
 ✨ Together, Team CODE2AIM ensures astronaut safety through **AI-powered monitoring systems**.
